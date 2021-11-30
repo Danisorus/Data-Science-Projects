@@ -17,7 +17,7 @@ f.write(headers)	#write the headers to the csv file
 my_url = 'https://www1.dramacool.sk/recently-added'		#url that is going to be scrapped
 
 #opens url in web browser
-driver = webdriver.Chrome(executable_path='C:/Users/danie/Desktop/WebScrapping/Chromedriver/chromedriver.exe')
+driver = webdriver.Firefox()
 driver.get(my_url)
 
 #default time stamps needed for calculating the string length of the date show was added
