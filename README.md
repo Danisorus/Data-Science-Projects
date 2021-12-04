@@ -1,2 +1,2 @@
-# Data-Analysis/Science-Projects
+# Data-Engineering/Science-Projects
 This repository entails all the data science related projects I have worked on.
